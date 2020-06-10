@@ -1,0 +1,4 @@
+C:\Users\Artur\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\Artur\CLionProjects\untitled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Artur/CLionProjects/untitled/cmake-build-release
